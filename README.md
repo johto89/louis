@@ -68,9 +68,9 @@ louis gathers information from the kernel through eBPF (with BCC). These sources
     ```
     - Or download the `louis` binary from releases.
 
-## Screenshots & Examples
+## Video Demo
 
-[![IMAGE_ALT]](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+https://www.youtube.com/watch?v=UmX4kyB2wfg
 
 ## Fun future activities
 
