@@ -70,7 +70,7 @@ louis gathers information from the kernel through eBPF (with BCC). These sources
 
 ## Screenshots & Examples
 
-![Example of Louis Running](./docs/example.gif)
+![Example of Louis Running](https://www.youtube.com/watch?v=Vwh3MeDu2pM)
 
 ## Fun future activities
 
